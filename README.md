@@ -4,4 +4,4 @@
 
 This project is organized in a way that the top-level repository (super repository) manages multiple sub-repositories. In this way, different parts of the code base can be better managed and maintained while ensuring the independence and flexibility of each sub-repository. The sub-repository starts with the `frameworks` field.
 
-[frameworks_system_vibrator](../../open-vela/frameworks_system_vibrator)
+[frameworks_system_vibrator](../../../open-vela/frameworks_system_vibrator)
